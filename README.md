@@ -1,6 +1,6 @@
 # ¡Hola! ¡Soy Edward Umaña! 👋
 
-¡Hola! Soy un desarrollador Front-end con 3 años de experiencia trabajando con WordPress y ReactJS/NextJS. Me encanta crear soluciones innovadoras para problemas complejos y siempre me mantengo actualizado en las últimas tendencias y tecnologías de mi campo. Además, me apasiona el mundo de los videojuegos, el anime y explorar la naturaleza. ¡Bienvenido!
+¡Hola! Soy un desarrollador Front-end con 4 años de experiencia trabajando con WordPress y ReactJS/NextJS. Me encanta crear soluciones innovadoras para problemas complejos y siempre me mantengo actualizado en las últimas tendencias y tecnologías de mi campo. Además, me apasiona el mundo de los videojuegos, el anime y explorar la naturaleza. ¡Bienvenido!
 
 ```javascript
 const MySkills = () => {
